@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HO GIA THANG</h1>
-<h3 align="center">A Computer Science student come from HCMUT</h3>
+<h3 align="center">A Computer Science student from HCMUT</h3>
 
-- 🔭 I’m currently working on **Advance Programming Assignment**
+- 🔭 I’m currently looking for a company for my **internship**
 
 - 🌱 I’m currently learning **Software technical skills**
 
